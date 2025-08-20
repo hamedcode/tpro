@@ -1,4 +1,4 @@
-برای مشاهده لیست پروکسی‌ها به صفحه زیر مراجعه کنید
+برای مشاهده لیست پروکسی‌ها به صفحه زیر مراجعه کنید:
 
 
-:https://hamedcode.github.io/tpro/
+https://hamedcode.github.io/tpro/
