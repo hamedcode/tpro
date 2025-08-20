@@ -7,7 +7,7 @@ on:
 
   # Trigger on a schedule
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '0 */8 * * *'
 
   # Allow manual trigger
   workflow_dispatch:
