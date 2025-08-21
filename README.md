@@ -6,9 +6,7 @@
 <br><!-- Row 2: Stats & Social Badges -->
   <img src="https://komarev.com/ghpvc/?username=hamedcode&repo=tpro&color=blue&style=for-the-badge" alt="Visitors">
   <img alt="GitHub Release" src="https://img.shields.io/github/v/release/hamedcode/tpro?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python">
   
-
 
 
 
