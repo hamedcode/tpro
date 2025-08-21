@@ -319,12 +319,12 @@ if ($proxyCount > 0) {
 
 $htmlOutputContent .= '
         <div class="footer">
-            <p>made with ❤️ by YEBEKHE</p>
+            <p>Modified by Hamed</p>
             <div class="social-icons">
-                <a href="https://t.me/yebekhe" target="_blank" title="YEBEKHE on Telegram">
+                <a href="https://t.me/config724" target="_blank" title="Hamed on Telegram">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M9.78 18.65l.28-4.23 7.68-6.92c.34-.31-.07-.46-.52-.19L7.74 13.3 3.64 12c-.88-.25-.89-1.39.2-1.61l16.11-5.71c.78-.27 1.45.16 1.18 1.1l-2.53 11.92c-.33 1.51-1.23 1.84-2.24 1.13l-4.75-3.51-2.35 2.24c-.26.26-.48.47-.93.47z"/></svg>
                 </a>
-                <a href="https://twitter.com/yebekhe" target="_blank" title="YEBEKHE on Twitter">
+                <a href="https://twitter.com" target="_blank" title="Hamed on Twitter">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
                 </a>
             </div>
