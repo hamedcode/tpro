@@ -1,5 +1,5 @@
 <p align="center"><!-- Row 1: Core Status Badges -->
-  <img src="https://img.shields.io/github/actions/workflow/status/hamedcode/tpro/main.yml?style=for-the-badge&logo=githubactions&logoColor=white" alt="Actions Status"><a href="https://hamedcode.github.io/port-based-v2ray-configs/" target="_blank">
+  <img src="https://img.shields.io/github/actions/workflow/status/hamedcode/tpro/main.yml?style=for-the-badge&logo=githubactions&logoColor=white" alt="Actions Status"><a href="https://hamedcode.github.io/tpro/" target="_blank">
     <img src="https://img.shields.io/badge/github-pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages"></a>
 
 <!-- You can copy and paste this HTML code into your README.md file or any other HTML file. -->
