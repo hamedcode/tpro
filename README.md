@@ -4,10 +4,8 @@
   <a href="https://github.com/hamedcode/tpro/commits/main">
     <img src="https://img.shields.io/github/last-commit/hamedcode/tpro?style=for-the-badge" alt="GitHub last commit">
   </a>
+  <img alt="GitHub License" src="https://img.shields.io/github/license/Hamedcode/tpro?style=for-the-badge">
 </p>
-<img alt="GitHub License" src="https://img.shields.io/github/license/Hamedcode/tpro?style=for-the-badge">
-
-
 
 
 برای مشاهده لیست پروکسی‌ها به صفحه زیر مراجعه کنید:
