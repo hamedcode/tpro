@@ -5,8 +5,6 @@
     <img src="https://img.shields.io/github/last-commit/hamedcode/tpro?style=for-the-badge" alt="GitHub last commit">
   </a>
 </p>
-
-  
 <img alt="GitHub License" src="https://img.shields.io/github/license/Hamedcode/tpro?style=for-the-badge">
 <br><!-- Row 2: Stats & Social Badges -->
   <img src="https://komarev.com/ghpvc/?username=hamedcode&repo=tpro&color=blue&style=for-the-badge" alt="Visitors">
