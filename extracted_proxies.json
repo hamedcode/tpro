@@ -1,36 +1,13 @@
 [
     {
-        "server": "ssh2.best-moz.info",
-        "port": 22,
-        "secret": "dd79e344818749bd7ac519130220c25d09</a><br/><br/><a",
-        "status": "Online",
-        "latency": 17,
-        "tg_url": "tg://proxy?server=ssh2.best-moz.info&port=22&secret=dd79e344818749bd7ac519130220c25d09</a><br/><br/><a",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
         "server": "tls.joumalanet.co.uk",
         "port": 25565,
         "secret": "ee1603010200010001fc030386e24c3add617669746f2e7275",
         "status": "Online",
-        "latency": 30,
+        "latency": 25,
         "tg_url": "tg://proxy?server=tls.joumalanet.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add617669746f2e7275",
         "history": [
+            1,
             1,
             1,
             1,
@@ -60,6 +37,7 @@
             1,
             1,
             1,
+            1,
             1
         ]
     },
@@ -68,7 +46,7 @@
         "port": 25565,
         "secret": "ee1603010200010001fc030386e24c3add617669746f2e7275",
         "status": "Online",
-        "latency": 32,
+        "latency": 40,
         "tg_url": "tg://proxy?server=mt.joumalanet.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add617669746f2e7275",
         "history": [
             1,
@@ -90,29 +68,18 @@
             1,
             1,
             1,
+            1,
             1
         ]
     },
     {
-        "server": "ssh.meow0.co.uk",
-        "port": 22,
-        "secret": "dd79e344818749bd7ac519130220c25d09",
+        "server": "mt.joumalanet.co.uk",
+        "port": 25565,
+        "secret": "ee1603010200010001fc030386e24c3add617669746f2e7275</a><br/><br/><a",
         "status": "Online",
-        "latency": 35,
-        "tg_url": "tg://proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09",
+        "latency": 44,
+        "tg_url": "tg://proxy?server=mt.joumalanet.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add617669746f2e7275</a><br/><br/><a",
         "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
             1,
             1,
             1,
@@ -132,9 +99,10 @@
         "port": 25565,
         "secret": "ee1603010200010001fc030386e24c3add7765622e62616c652e696f",
         "status": "Online",
-        "latency": 39,
+        "latency": 51,
         "tg_url": "tg://proxy?server=mt.joumalanet.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add7765622e62616c652e696f",
         "history": [
+            1,
             1,
             1
         ]
@@ -144,31 +112,8 @@
         "port": 25565,
         "secret": "dd79e344818749bd7ac519130220c25d09",
         "status": "Online",
-        "latency": 53,
+        "latency": 60,
         "tg_url": "tg://proxy?server=mt.best-moz.info&port=25565&secret=dd79e344818749bd7ac519130220c25d09",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "ssh2.best-moz.info",
-        "port": 22,
-        "secret": "dd79e344818749bd7ac519130220c25d09",
-        "status": "Online",
-        "latency": 65,
-        "tg_url": "tg://proxy?server=ssh2.best-moz.info&port=22&secret=dd79e344818749bd7ac519130220c25d09",
         "history": [
             1,
             1,
@@ -191,20 +136,23 @@
         "port": 22,
         "secret": "dd79e344818749bd7ac519130220c25d09",
         "status": "Online",
-        "latency": 66,
+        "latency": 71,
         "tg_url": "tg://proxy?server=ssh.best-moz.info&port=22&secret=dd79e344818749bd7ac519130220c25d09",
         "history": [
+            1,
             1
         ]
     },
     {
-        "server": "mt2.best-moz.info",
-        "port": 25565,
+        "server": "ssh2.best-moz.info",
+        "port": 22,
         "secret": "dd79e344818749bd7ac519130220c25d09",
         "status": "Online",
-        "latency": 66,
-        "tg_url": "tg://proxy?server=mt2.best-moz.info&port=25565&secret=dd79e344818749bd7ac519130220c25d09",
+        "latency": 72,
+        "tg_url": "tg://proxy?server=ssh2.best-moz.info&port=22&secret=dd79e344818749bd7ac519130220c25d09",
         "history": [
+            1,
+            1,
             1,
             1,
             1,
@@ -225,7 +173,7 @@
         "port": 25565,
         "secret": "dd79e344818749bd7ac519130220c25d09</a><br/><br/><a",
         "status": "Online",
-        "latency": 68,
+        "latency": 72,
         "tg_url": "tg://proxy?server=mt.best-moz.info&port=25565&secret=dd79e344818749bd7ac519130220c25d09</a><br/><br/><a",
         "history": [
             1,
@@ -240,17 +188,56 @@
             1,
             1,
             1,
+            1,
             1
         ]
     },
     {
-        "server": "91.107.160.196",
-        "port": 443,
-        "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+        "server": "ssh2.best-moz.info",
+        "port": 22,
+        "secret": "dd79e344818749bd7ac519130220c25d09</a><br/><br/><a",
         "status": "Online",
-        "latency": 118,
-        "tg_url": "tg://proxy?server=91.107.160.196&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
+        "latency": 77,
+        "tg_url": "tg://proxy?server=ssh2.best-moz.info&port=22&secret=dd79e344818749bd7ac519130220c25d09</a><br/><br/><a",
         "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "mt2.best-moz.info",
+        "port": 25565,
+        "secret": "dd79e344818749bd7ac519130220c25d09",
+        "status": "Online",
+        "latency": 78,
+        "tg_url": "tg://proxy?server=mt2.best-moz.info&port=25565&secret=dd79e344818749bd7ac519130220c25d09",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
             1
         ]
     },
@@ -259,21 +246,23 @@
         "port": 8443,
         "secret": "dd104462821249bd7ac519130220c25d09",
         "status": "Online",
-        "latency": 122,
+        "latency": 119,
         "tg_url": "tg://proxy?server=46.225.248.214&port=8443&secret=dd104462821249bd7ac519130220c25d09",
         "history": [
+            1,
             1,
             1
         ]
     },
     {
-        "server": "new2.lambforkebeb.co.uk",
-        "port": 2096,
+        "server": "hey.foltmeingop.co.uk",
+        "port": 8880,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><a",
         "status": "Online",
-        "latency": 123,
-        "tg_url": "tg://proxy?server=new2.lambforkebeb.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><a",
+        "latency": 122,
+        "tg_url": "tg://proxy?server=hey.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><a",
         "history": [
+            1,
             1,
             1
         ]
@@ -287,226 +276,19 @@
         "tg_url": "tg://proxy?server=159.69.28.87&port=8443&secret=dd104462821249bd7ac519130220c25d09",
         "history": [
             1,
-            1
-        ]
-    },
-    {
-        "server": "shenzar-sahel.dashtodaman.info.",
-        "port": 7799,
-        "secret": "dd10400103324995b07c030386e886e7f1</a><br/><br/><a",
-        "status": "Online",
-        "latency": 127,
-        "tg_url": "tg://proxy?server=shenzar-sahel.dashtodaman.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1</a><br/><br/><a",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
             1,
             1
         ]
     },
     {
-        "server": "sub.iran-tehran.co.uk.",
+        "server": "91.107.160.196",
         "port": 443,
-        "secret": "3RBEYoISSb16xRkTAiDCXQk=</a><br/><br/><br/><a",
+        "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
         "status": "Online",
         "latency": 128,
-        "tg_url": "tg://proxy?server=sub.iran-tehran.co.uk.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk=</a><br/><br/><br/><a",
+        "tg_url": "tg://proxy?server=91.107.160.196&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
         "history": [
             1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "sub.iran-tehran.co.uk.",
-        "port": 443,
-        "secret": "3RBEYoISSb16xRkTAiDCXQk=</a><br/><br/><a",
-        "status": "Online",
-        "latency": 129,
-        "tg_url": "tg://proxy?server=sub.iran-tehran.co.uk.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk=</a><br/><br/><a",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "star.talebi.co.uk",
-        "port": 2096,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><a",
-        "status": "Online",
-        "latency": 132,
-        "tg_url": "tg://proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><a",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "bala.hastim.co.uk",
-        "port": 443,
-        "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-        "status": "Online",
-        "latency": 132,
-        "tg_url": "tg://proxy?server=bala.hastim.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "ir.speed.finecooking.info",
-        "port": 443,
-        "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b</a><br/><br/><br/><br/><br/><i",
-        "status": "Online",
-        "latency": 132,
-        "tg_url": "tg://proxy?server=ir.speed.finecooking.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b</a><br/><br/><br/><br/><br/><i",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "shenzar-sahel.dashtodaman.info.",
-        "port": 7799,
-        "secret": "dd10400103324995b07c030386e886e7f1</a><br/><br/><br/><br/><br/><i",
-        "status": "Online",
-        "latency": 134,
-        "tg_url": "tg://proxy?server=shenzar-sahel.dashtodaman.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1</a><br/><br/><br/><br/><br/><i",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "admin.valmira.co.uk",
-        "port": 25565,
-        "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d</a><br/><br/><a",
-        "status": "Online",
-        "latency": 136,
-        "tg_url": "tg://proxy?server=admin.valmira.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d</a><br/><br/><a",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "pesar.nanaz.co.uk",
-        "port": 8443,
-        "secret": "EERighJJvXrFGRMCIMJdCQ",
-        "status": "Online",
-        "latency": 136,
-        "tg_url": "tg://proxy?server=pesar.nanaz.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
-        "history": [
-            1
-        ]
-    },
-    {
-        "server": "65.21.83.248",
-        "port": 443,
-        "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-        "status": "Online",
-        "latency": 139,
-        "tg_url": "tg://proxy?server=65.21.83.248&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
-        "history": [
-            1
-        ]
-    },
-    {
-        "server": "135.181.129.162",
-        "port": 443,
-        "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-        "status": "Online",
-        "latency": 140,
-        "tg_url": "tg://proxy?server=135.181.129.162&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
-        "history": [
-            1,
-            1
-        ]
-    },
-    {
-        "server": "mtp3.hlebushek.com",
-        "port": 443,
-        "secret": "ee49b03637799a40446509a268d99ff91b706574726f766963682e7275",
-        "status": "Online",
-        "latency": 140,
-        "tg_url": "tg://proxy?server=mtp3.hlebushek.com&port=443&secret=ee49b03637799a40446509a268d99ff91b706574726f766963682e7275",
-        "history": [
             1
         ]
     },
@@ -515,7 +297,7 @@
         "port": 2096,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><a",
         "status": "Online",
-        "latency": 140,
+        "latency": 129,
         "tg_url": "tg://proxy?server=gallery.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><a",
         "history": [
             1,
@@ -545,12 +327,12 @@
         ]
     },
     {
-        "server": "mio.foltmeingop.co.uk",
-        "port": 8880,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "server": "sub.iran-tehran.co.uk.",
+        "port": 443,
+        "secret": "3RBEYoISSb16xRkTAiDCXQk=</a><br/><br/><br/><a",
         "status": "Online",
-        "latency": 141,
-        "tg_url": "tg://proxy?server=mio.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 131,
+        "tg_url": "tg://proxy?server=sub.iran-tehran.co.uk.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk=</a><br/><br/><br/><a",
         "history": [
             1,
             1,
@@ -569,6 +351,109 @@
             1,
             1,
             1,
+            1
+        ]
+    },
+    {
+        "server": "shenzar-sahel.dashtodaman.info.",
+        "port": 7799,
+        "secret": "dd10400103324995b07c030386e886e7f1</a><br/><br/><br/><br/><br/><i",
+        "status": "Online",
+        "latency": 133,
+        "tg_url": "tg://proxy?server=shenzar-sahel.dashtodaman.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1</a><br/><br/><br/><br/><br/><i",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "gallery.talebi.co.uk",
+        "port": 2096,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><br/><br/><i",
+        "status": "Online",
+        "latency": 133,
+        "tg_url": "tg://proxy?server=gallery.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><br/><br/><i",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "bala.hastim.co.uk",
+        "port": 443,
+        "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d</a><br/><br/><br/><br/><i",
+        "status": "Online",
+        "latency": 133,
+        "tg_url": "tg://proxy?server=bala.hastim.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d</a><br/><br/><br/><br/><i",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "ir.speed.finecooking.info",
+        "port": 443,
+        "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b</a><br/><br/><br/><br/><br/><i",
+        "status": "Online",
+        "latency": 134,
+        "tg_url": "tg://proxy?server=ir.speed.finecooking.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b</a><br/><br/><br/><br/><br/><i",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "135.181.129.162",
+        "port": 443,
+        "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+        "status": "Online",
+        "latency": 141,
+        "tg_url": "tg://proxy?server=135.181.129.162&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
+        "history": [
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "nigan.goooalir.co.uk",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09</a><br/><br/><a",
+        "status": "Online",
+        "latency": 141,
+        "tg_url": "tg://proxy?server=nigan.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09</a><br/><br/><a",
+        "history": [
             1,
             1,
             1,
@@ -581,13 +466,48 @@
     {
         "server": "Rose.goooalir.co.uk",
         "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
+        "secret": "dd104462821249bd7ac519130220c25d09</a><br/><br/><br/><br/><i",
         "status": "Online",
         "latency": 141,
-        "tg_url": "tg://proxy?server=Rose.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+        "tg_url": "tg://proxy?server=Rose.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09</a><br/><br/><br/><br/><i",
         "history": [
             1,
-            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "sub.iran-tehran.co.uk.",
+        "port": 443,
+        "secret": "3RBEYoISSb16xRkTAiDCXQk=",
+        "status": "Online",
+        "latency": 143,
+        "tg_url": "tg://proxy?server=sub.iran-tehran.co.uk.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk=",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
             1,
             1,
             1,
@@ -599,7 +519,7 @@
         "port": 2053,
         "secret": "79e344818749bd7ac519130220c25d09</a><br/><br/><a",
         "status": "Online",
-        "latency": 142,
+        "latency": 144,
         "tg_url": "tg://proxy?server=rain.lavazemi2.co.uk&port=2053&secret=79e344818749bd7ac519130220c25d09</a><br/><br/><a",
         "history": [
             1,
@@ -631,79 +551,254 @@
     {
         "server": "star.talebi.co.uk",
         "port": 2096,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "status": "Online",
-        "latency": 142,
-        "tg_url": "tg://proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "vasle.goooalir.co.uk",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09</a><br/><br/><a",
-        "status": "Online",
-        "latency": 142,
-        "tg_url": "tg://proxy?server=vasle.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09</a><br/><br/><a",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "gallery.talebi.co.uk",
-        "port": 2096,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><br/><br/><i",
-        "status": "Online",
-        "latency": 143,
-        "tg_url": "tg://proxy?server=gallery.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><br/><br/><i",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "severjadid.co.uk",
-        "port": 4455,
-        "secret": "dd104462821249bd7ac519130220c25d09</a><br/><br/><a",
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><a",
         "status": "Online",
         "latency": 144,
-        "tg_url": "tg://proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09</a><br/><br/><a",
+        "tg_url": "tg://proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><a",
         "history": [
             1,
             1,
             1,
             1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "mio.foltmeingop.co.uk",
+        "port": 8880,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><br/><br/><i",
+        "status": "Online",
+        "latency": 144,
+        "tg_url": "tg://proxy?server=mio.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><br/><br/><i",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "65.21.83.248",
+        "port": 443,
+        "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
+        "status": "Online",
+        "latency": 145,
+        "tg_url": "tg://proxy?server=65.21.83.248&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0",
+        "history": [
+            1,
+            1
+        ]
+    },
+    {
+        "server": "new2.lambforkebeb.co.uk",
+        "port": 2096,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "status": "Online",
+        "latency": 145,
+        "tg_url": "tg://proxy?server=new2.lambforkebeb.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+        "history": [
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "deleted.antony-gordon.co.uk",
+        "port": 80,
+        "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=",
+        "status": "Online",
+        "latency": 146,
+        "tg_url": "tg://proxy?server=deleted.antony-gordon.co.uk&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s=",
+        "history": [
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "mio.foltmeingop.co.uk",
+        "port": 8880,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><a",
+        "status": "Online",
+        "latency": 146,
+        "tg_url": "tg://proxy?server=mio.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><a",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "premium.speed-benz.co.uk",
+        "port": 8443,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "status": "Online",
+        "latency": 147,
+        "tg_url": "tg://proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "sub.iran-tehran.co.uk.",
+        "port": 443,
+        "secret": "3RBEYoISSb16xRkTAiDCXQk=</a><br/><br/><a",
+        "status": "Online",
+        "latency": 147,
+        "tg_url": "tg://proxy?server=sub.iran-tehran.co.uk.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk=</a><br/><br/><a",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "leomessi.goooalir.co.uk",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09</a>",
+        "status": "Online",
+        "latency": 149,
+        "tg_url": "tg://proxy?server=leomessi.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09</a>",
+        "history": [
+            1,
+            1
+        ]
+    },
+    {
+        "server": "91.98.97.225",
+        "port": 8443,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "status": "Online",
+        "latency": 149,
+        "tg_url": "tg://proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+        "history": [
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "mio.foltmeingop.co.uk",
+        "port": 8880,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "status": "Online",
+        "latency": 150,
+        "tg_url": "tg://proxy?server=mio.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "baran.goooalir.co.uk",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "status": "Online",
+        "latency": 151,
+        "tg_url": "tg://proxy?server=baran.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+        "history": [
+            1,
+            1
+        ]
+    },
+    {
+        "server": "Hel-hi.co.uk.",
+        "port": 443,
+        "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d</a><br/><br/><br/><br/><i",
+        "status": "Online",
+        "latency": 151,
+        "tg_url": "tg://proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d</a><br/><br/><br/><br/><i",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "hey.foltmeingop.co.uk",
+        "port": 8880,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "status": "Online",
+        "latency": 152,
+        "tg_url": "tg://proxy?server=hey.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+        "history": [
             1,
             1,
             1
@@ -712,11 +807,61 @@
     {
         "server": "5.75.221.245",
         "port": 7980,
-        "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b</a>",
+        "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
         "status": "Online",
-        "latency": 144,
-        "tg_url": "tg://proxy?server=5.75.221.245&port=7980&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b</a>",
+        "latency": 152,
+        "tg_url": "tg://proxy?server=5.75.221.245&port=7980&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
         "history": [
+            1,
+            1
+        ]
+    },
+    {
+        "server": "5.75.221.245",
+        "port": 7980,
+        "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b</a><br/><br/><br/><br/><br/><br/><br/><i",
+        "status": "Online",
+        "latency": 152,
+        "tg_url": "tg://proxy?server=5.75.221.245&port=7980&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b</a><br/><br/><br/><br/><br/><br/><br/><i",
+        "history": [
+            1,
+            1
+        ]
+    },
+    {
+        "server": "leomessi.goooalir.co.uk",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "status": "Online",
+        "latency": 153,
+        "tg_url": "tg://proxy?server=leomessi.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+        "history": [
+            1,
+            1
+        ]
+    },
+    {
+        "server": "new2.lambforkebeb.co.uk",
+        "port": 2096,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><a",
+        "status": "Online",
+        "latency": 153,
+        "tg_url": "tg://proxy?server=new2.lambforkebeb.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><a",
+        "history": [
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "dokhtar.nanaz.co.uk",
+        "port": 8443,
+        "secret": "EERighJJvXrFGRMCIMJdCQ",
+        "status": "Online",
+        "latency": 154,
+        "tg_url": "tg://proxy?server=dokhtar.nanaz.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+        "history": [
+            1,
             1
         ]
     },
@@ -725,7 +870,7 @@
         "port": 2096,
         "secret": "79e344818749bd7ac519130220c25d09",
         "status": "Online",
-        "latency": 145,
+        "latency": 155,
         "tg_url": "tg://proxy?server=new2.lambforkebeb.co.uk&port=2096&secret=79e344818749bd7ac519130220c25d09",
         "history": [
             1,
@@ -755,145 +900,11 @@
         ]
     },
     {
-        "server": "admin.valmira.co.uk",
-        "port": 25565,
-        "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-        "status": "Online",
-        "latency": 145,
-        "tg_url": "tg://proxy?server=admin.valmira.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "t.meow-network.com",
-        "port": 443,
-        "secret": "ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d",
-        "status": "Online",
-        "latency": 145,
-        "tg_url": "tg://proxy?server=t.meow-network.com&port=443&secret=ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d",
-        "history": [
-            1
-        ]
-    },
-    {
-        "server": "new.lambforkebeb.co.uk",
-        "port": 2096,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><br/><br/><i",
-        "status": "Online",
-        "latency": 145,
-        "tg_url": "tg://proxy?server=new.lambforkebeb.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><br/><br/><i",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "rain.lavazemi2.co.uk",
-        "port": 2053,
-        "secret": "79e344818749bd7ac519130220c25d09",
-        "status": "Online",
-        "latency": 146,
-        "tg_url": "tg://proxy?server=rain.lavazemi2.co.uk&port=2053&secret=79e344818749bd7ac519130220c25d09",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "me.foltmeingop.co.uk",
-        "port": 8880,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "status": "Online",
-        "latency": 146,
-        "tg_url": "tg://proxy?server=me.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "dingi3.co.uk",
-        "port": 4455,
-        "secret": "dd104462821249bd7ac519130220c25d09</a>",
-        "status": "Online",
-        "latency": 146,
-        "tg_url": "tg://proxy?server=dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09</a>",
-        "history": [
-            1,
-            1
-        ]
-    },
-    {
         "server": "look.foltmeingop.co.uk",
         "port": 8880,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
         "status": "Online",
-        "latency": 147,
+        "latency": 155,
         "tg_url": "tg://proxy?server=look.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
         "history": [
             1,
@@ -927,7 +938,7 @@
         "port": 443,
         "secret": "3RBEYoISSb16xRkTAiDCXQk=</a><br/><br/><a",
         "status": "Online",
-        "latency": 147,
+        "latency": 155,
         "tg_url": "tg://proxy?server=team.fast--pro.co.uk.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk=</a><br/><br/><a",
         "history": [
             1,
@@ -942,231 +953,23 @@
             1,
             1,
             1,
-            1
-        ]
-    },
-    {
-        "server": "look.foltmeingop.co.uk",
-        "port": 8880,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ</a></div>",
-        "status": "Online",
-        "latency": 148,
-        "tg_url": "tg://proxy?server=look.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ</a></div>",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
             1,
             1
         ]
     },
     {
-        "server": "mizaneshgh2.co.uk",
-        "port": 4455,
-        "secret": "dd104462821249bd7ac519130220c25d09</a><br/><br/><br/><br/><i",
+        "server": "Hub.whiteblox.org.",
+        "port": 80,
+        "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=</a><br/><br/><a",
         "status": "Online",
-        "latency": 148,
-        "tg_url": "tg://proxy?server=mizaneshgh2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09</a><br/><br/><br/><br/><i",
+        "latency": 155,
+        "tg_url": "tg://proxy?server=Hub.whiteblox.org.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s=</a><br/><br/><a",
         "history": [
+            0,
             1,
             1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "uptime.speed-benz.co.uk",
-        "port": 8443,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "status": "Online",
-        "latency": 150,
-        "tg_url": "tg://proxy?server=uptime.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-        "history": [
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "me.foltmeingop.co.uk",
-        "port": 8880,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><a",
-        "status": "Online",
-        "latency": 150,
-        "tg_url": "tg://proxy?server=me.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><a",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "Rose.goooalir.co.uk",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09</a><br/><br/><br/><br/><i",
-        "status": "Online",
-        "latency": 150,
-        "tg_url": "tg://proxy?server=Rose.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09</a><br/><br/><br/><br/><i",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "leomessi.goooalir.co.uk",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09</a>",
-        "status": "Online",
-        "latency": 150,
-        "tg_url": "tg://proxy?server=leomessi.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09</a>",
-        "history": [
-            1
-        ]
-    },
-    {
-        "server": "baran.goooalir.co.uk",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "status": "Online",
-        "latency": 152,
-        "tg_url": "tg://proxy?server=baran.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-        "history": [
-            1
-        ]
-    },
-    {
-        "server": "5.75.221.245",
-        "port": 7980,
-        "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-        "status": "Online",
-        "latency": 152,
-        "tg_url": "tg://proxy?server=5.75.221.245&port=7980&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-        "history": [
-            1
-        ]
-    },
-    {
-        "server": "5.75.221.245",
-        "port": 7980,
-        "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b</a><br/><br/><br/><br/><br/><br/><br/><i",
-        "status": "Online",
-        "latency": 152,
-        "tg_url": "tg://proxy?server=5.75.221.245&port=7980&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b</a><br/><br/><br/><br/><br/><br/><br/><i",
-        "history": [
-            1
-        ]
-    },
-    {
-        "server": "new2.lambforkebeb.co.uk",
-        "port": 2096,
-        "secret": "79e344818749bd7ac519130220c25d09</a><br/><br/><a",
-        "status": "Online",
-        "latency": 153,
-        "tg_url": "tg://proxy?server=new2.lambforkebeb.co.uk&port=2096&secret=79e344818749bd7ac519130220c25d09</a><br/><br/><a",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "premium.speed-benz.co.uk",
-        "port": 8443,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "status": "Online",
-        "latency": 153,
-        "tg_url": "tg://proxy?server=premium.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-        "history": [
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "hey.foltmeingop.co.uk",
-        "port": 8880,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "status": "Online",
-        "latency": 153,
-        "tg_url": "tg://proxy?server=hey.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-        "history": [
-            1,
-            1
-        ]
-    },
-    {
-        "server": "mio.foltmeingop.co.uk",
-        "port": 8880,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><a",
-        "status": "Online",
-        "latency": 154,
-        "tg_url": "tg://proxy?server=mio.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><a",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
+            0,
+            0,
             0,
             1,
             1,
@@ -1180,16 +983,21 @@
             1,
             1,
             1,
+            1,
+            1,
+            1,
+            1,
+            1,
             1
         ]
     },
     {
-        "server": "mio.foltmeingop.co.uk",
-        "port": 8880,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><br/><br/><i",
+        "server": "dns.speed-benz.co.uk",
+        "port": 8443,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
         "status": "Online",
-        "latency": 154,
-        "tg_url": "tg://proxy?server=mio.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><br/><br/><i",
+        "latency": 156,
+        "tg_url": "tg://proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
         "history": [
             1,
             1,
@@ -1203,483 +1011,24 @@
         "port": 8443,
         "secret": "dd104462821249bd7ac519130220c25d09",
         "status": "Online",
-        "latency": 155,
+        "latency": 156,
         "tg_url": "tg://proxy?server=cr777.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
         "history": [
             1,
             1,
             1,
-            1
-        ]
-    },
-    {
-        "server": "nigan.goooalir.co.uk",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09</a><br/><br/><a",
-        "status": "Online",
-        "latency": 156,
-        "tg_url": "tg://proxy?server=nigan.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09</a><br/><br/><a",
-        "history": [
-            1,
-            1,
-            1,
-            1,
             1,
             1
         ]
     },
     {
-        "server": "dynu.ir.telbet.lol.",
-        "port": 80,
-        "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=</a><br/><br/><a",
+        "server": "new.lambforkebeb.co.uk",
+        "port": 2096,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
         "status": "Online",
         "latency": 158,
-        "tg_url": "tg://proxy?server=dynu.ir.telbet.lol.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s=</a><br/><br/><a",
+        "tg_url": "tg://proxy?server=new.lambforkebeb.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
         "history": [
-            1,
-            1
-        ]
-    },
-    {
-        "server": "dns.speed-benz.co.uk",
-        "port": 8443,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "status": "Online",
-        "latency": 159,
-        "tg_url": "tg://proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-        "history": [
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "deleted.antony-gordon.co.uk",
-        "port": 80,
-        "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=",
-        "status": "Online",
-        "latency": 159,
-        "tg_url": "tg://proxy?server=deleted.antony-gordon.co.uk&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s=",
-        "history": [
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "god-mode-on.peachsoft.co.uk.",
-        "port": 443,
-        "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169</a><br/><br/><a",
-        "status": "Online",
-        "latency": 159,
-        "tg_url": "tg://proxy?server=god-mode-on.peachsoft.co.uk.&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169</a><br/><br/><a",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "vasle.goooalir.co.uk",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "status": "Online",
-        "latency": 159,
-        "tg_url": "tg://proxy?server=vasle.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "leomessi.goooalir.co.uk",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "status": "Online",
-        "latency": 160,
-        "tg_url": "tg://proxy?server=leomessi.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-        "history": [
-            1
-        ]
-    },
-    {
-        "server": "narooo.goooalir.co.uk",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "status": "Online",
-        "latency": 160,
-        "tg_url": "tg://proxy?server=narooo.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-        "history": [
-            1
-        ]
-    },
-    {
-        "server": "ir.closcloud.co.uk",
-        "port": 8443,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "status": "Online",
-        "latency": 161,
-        "tg_url": "tg://proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-        "history": [
-            0,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "sub.iran-tehran.co.uk.",
-        "port": 443,
-        "secret": "3RBEYoISSb16xRkTAiDCXQk=",
-        "status": "Online",
-        "latency": 161,
-        "tg_url": "tg://proxy?server=sub.iran-tehran.co.uk.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk=",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "91.98.97.225",
-        "port": 8443,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "status": "Online",
-        "latency": 161,
-        "tg_url": "tg://proxy?server=91.98.97.225&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-        "history": [
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "masire-gozare.omr.marchelo.info",
-        "port": 35450,
-        "secret": "7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t</a><br/><br/><a",
-        "status": "Online",
-        "latency": 163,
-        "tg_url": "tg://proxy?server=masire-gozare.omr.marchelo.info&port=35450&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t</a><br/><br/><a",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "stream.lovely.lat",
-        "port": 443,
-        "secret": "eeaadd88aa9facd454936d0c42dc128e776d2e6265626f6f2e7275",
-        "status": "Online",
-        "latency": 163,
-        "tg_url": "tg://proxy?server=stream.lovely.lat&port=443&secret=eeaadd88aa9facd454936d0c42dc128e776d2e6265626f6f2e7275",
-        "history": [
-            1
-        ]
-    },
-    {
-        "server": "nigan.goooalir.co.uk",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "status": "Online",
-        "latency": 164,
-        "tg_url": "tg://proxy?server=nigan.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "sefid.goooalir.co.uk",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "status": "Online",
-        "latency": 166,
-        "tg_url": "tg://proxy?server=sefid.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-        "history": [
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "Hel-hi.co.uk.",
-        "port": 443,
-        "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d</a><br/><br/><br/><br/><i",
-        "status": "Online",
-        "latency": 167,
-        "tg_url": "tg://proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d</a><br/><br/><br/><br/><i",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "rich.whiteblox.org.",
-        "port": 80,
-        "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=</a><br/><br/><a",
-        "status": "Online",
-        "latency": 167,
-        "tg_url": "tg://proxy?server=rich.whiteblox.org.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s=</a><br/><br/><a",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "hey.foltmeingop.co.uk",
-        "port": 8880,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><a",
-        "status": "Online",
-        "latency": 167,
-        "tg_url": "tg://proxy?server=hey.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><a",
-        "history": [
-            1,
-            1
-        ]
-    },
-    {
-        "server": "sosis.telbet.app.",
-        "port": 80,
-        "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=</a><br/><br/><br/><br/><i",
-        "status": "Online",
-        "latency": 168,
-        "tg_url": "tg://proxy?server=sosis.telbet.app.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s=</a><br/><br/><br/><br/><i",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "khazar.sea.ir.pugfhtrdyted.info.",
-        "port": 88,
-        "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d",
-        "status": "Online",
-        "latency": 169,
-        "tg_url": "tg://proxy?server=khazar.sea.ir.pugfhtrdyted.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d",
-        "history": [
-            1,
-            1
-        ]
-    },
-    {
-        "server": "porsorate.co.uk",
-        "port": 4455,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "status": "Online",
-        "latency": 169,
-        "tg_url": "tg://proxy?server=porsorate.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "41.hide.newflamingodomain.co.uk",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09</a><br/><br/><a",
-        "status": "Online",
-        "latency": 170,
-        "tg_url": "tg://proxy?server=41.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09</a><br/><br/><a",
-        "history": [
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "Hel-hi.co.uk.",
-        "port": 443,
-        "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d</a><br/><br/><br/><br/><br/><i",
-        "status": "Online",
-        "latency": 171,
-        "tg_url": "tg://proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d</a><br/><br/><br/><br/><br/><i",
-        "history": [
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "Lashboy.muzanesghy.co.uk",
-        "port": 4455,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "status": "Online",
-        "latency": 172,
-        "tg_url": "tg://proxy?server=Lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "porsorate.co.uk",
-        "port": 4455,
-        "secret": "dd104462821249bd7ac519130220c25d09</a><br/><br/><a",
-        "status": "Online",
-        "latency": 173,
-        "tg_url": "tg://proxy?server=porsorate.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09</a><br/><br/><a",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "ir.speed.finecooking.info",
-        "port": 443,
-        "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-        "status": "Online",
-        "latency": 174,
-        "tg_url": "tg://proxy?server=ir.speed.finecooking.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "Hub.whiteblox.org.",
-        "port": 80,
-        "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=</a><br/><br/><a",
-        "status": "Online",
-        "latency": 175,
-        "tg_url": "tg://proxy?server=Hub.whiteblox.org.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s=</a><br/><br/><a",
-        "history": [
-            1,
-            0,
-            1,
-            1,
-            0,
-            0,
-            0,
-            1,
-            1,
-            1,
             1,
             1,
             1,
@@ -1699,738 +1048,10 @@
     {
         "server": "new2.lambforkebeb.co.uk",
         "port": 2096,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "secret": "79e344818749bd7ac519130220c25d09</a><br/><br/><a",
         "status": "Online",
-        "latency": 175,
-        "tg_url": "tg://proxy?server=new2.lambforkebeb.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-        "history": [
-            1,
-            1
-        ]
-    },
-    {
-        "server": "mt.joumalanet.co.uk",
-        "port": 25565,
-        "secret": "ee1603010200010001fc030386e24c3add617669746f2e7275</a><br/><br/><a",
-        "status": "Online",
-        "latency": 176,
-        "tg_url": "tg://proxy?server=mt.joumalanet.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add617669746f2e7275</a><br/><br/><a",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "world-mordak.maraton-co.info.",
-        "port": 443,
-        "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d</a><br/><br/><a",
-        "status": "Online",
-        "latency": 177,
-        "tg_url": "tg://proxy?server=world-mordak.maraton-co.info.&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d</a><br/><br/><a",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "setion-two.co.uk.",
-        "port": 443,
-        "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169",
-        "status": "Online",
-        "latency": 179,
-        "tg_url": "tg://proxy?server=setion-two.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169",
-        "history": [
-            1
-        ]
-    },
-    {
-        "server": "mtp2.hlebushek.com",
-        "port": 443,
-        "secret": "ee8263f1fdfbfa0629c67c40d208806873706574726f766963682e7275",
-        "status": "Online",
-        "latency": 179,
-        "tg_url": "tg://proxy?server=mtp2.hlebushek.com&port=443&secret=ee8263f1fdfbfa0629c67c40d208806873706574726f766963682e7275",
-        "history": [
-            1
-        ]
-    },
-    {
-        "server": "ir.makkers.co.uk",
-        "port": 8443,
-        "secret": "EERighJJvXrFGRMCIMjdCQ",
-        "status": "Online",
-        "latency": 180,
-        "tg_url": "tg://proxy?server=ir.makkers.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
-        "history": [
-            1
-        ]
-    },
-    {
-        "server": "sosis.telbet.app.",
-        "port": 80,
-        "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=</a><br/><br/><a",
-        "status": "Online",
-        "latency": 180,
-        "tg_url": "tg://proxy?server=sosis.telbet.app.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s=</a><br/><br/><a",
-        "history": [
-            1,
-            1
-        ]
-    },
-    {
-        "server": "god-mode-on.peachsoft.co.uk.",
-        "port": 443,
-        "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169",
-        "status": "Online",
-        "latency": 181,
-        "tg_url": "tg://proxy?server=god-mode-on.peachsoft.co.uk.&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "sosis.telbet.app.",
-        "port": 80,
-        "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=",
-        "status": "Online",
-        "latency": 182,
-        "tg_url": "tg://proxy?server=sosis.telbet.app.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s=",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "cdn7.cdnwave.org",
-        "port": 443,
-        "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275</a>",
-        "status": "Online",
-        "latency": 185,
-        "tg_url": "tg://proxy?server=cdn7.cdnwave.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275</a>",
-        "history": [
-            0,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "bo0ji.co.uk.",
-        "port": 443,
-        "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-        "status": "Online",
-        "latency": 185,
-        "tg_url": "tg://proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "masire-gozare.omr.marchelo.info",
-        "port": 35450,
-        "secret": "7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t",
-        "status": "Online",
-        "latency": 186,
-        "tg_url": "tg://proxy?server=masire-gozare.omr.marchelo.info&port=35450&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "one.horizon555.co.uk",
-        "port": 8443,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><br/><a",
-        "status": "Online",
-        "latency": 186,
-        "tg_url": "tg://proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><br/><a",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "shenzar-sahel.dashtodaman.info.",
-        "port": 7799,
-        "secret": "dd10400103324995b07c030386e886e7f1",
-        "status": "Online",
-        "latency": 187,
-        "tg_url": "tg://proxy?server=shenzar-sahel.dashtodaman.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "dynu.ir.telbet.lol.",
-        "port": 80,
-        "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=",
-        "status": "Online",
-        "latency": 188,
-        "tg_url": "tg://proxy?server=dynu.ir.telbet.lol.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s=",
-        "history": [
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "Fast.finecooking.info",
-        "port": 443,
-        "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-        "status": "Online",
-        "latency": 188,
-        "tg_url": "tg://proxy?server=Fast.finecooking.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "one.horizon555.co.uk",
-        "port": 8443,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "status": "Online",
-        "latency": 188,
-        "tg_url": "tg://proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "media14.happtg.org",
-        "port": 443,
-        "secret": "ee4f9067589367c2ef531642d501664f43686f66662e7275",
-        "status": "Online",
-        "latency": 193,
-        "tg_url": "tg://proxy?server=media14.happtg.org&port=443&secret=ee4f9067589367c2ef531642d501664f43686f66662e7275",
-        "history": [
-            0,
-            1
-        ]
-    },
-    {
-        "server": "max.kimt.click",
-        "port": 443,
-        "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
-        "status": "Online",
-        "latency": 193,
-        "tg_url": "tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
-        "history": [
-            1,
-            0,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "ir.esdata.info",
-        "port": 8443,
-        "secret": "EERighJJvXrFGRMCIMjdCQ</a><br/><br/><br/><br/><br/><br/><i",
-        "status": "Online",
-        "latency": 197,
-        "tg_url": "tg://proxy?server=ir.esdata.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ</a><br/><br/><br/><br/><br/><br/><i",
-        "history": [
-            1
-        ]
-    },
-    {
-        "server": "team.fast--pro.co.uk.",
-        "port": 443,
-        "secret": "3RBEYoISSb16xRkTAiDCXQk=",
-        "status": "Online",
-        "latency": 202,
-        "tg_url": "tg://proxy?server=team.fast--pro.co.uk.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk=",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            0,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "max.kimt.click",
-        "port": 443,
-        "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b</a><br/><br/><a",
-        "status": "Online",
-        "latency": 202,
-        "tg_url": "tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b</a><br/><br/><a",
-        "history": [
-            0,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "khalije-ta-abad-fars.ir.pugfhtrdyted.info.",
-        "port": 88,
-        "secret": "ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d",
-        "status": "Online",
-        "latency": 203,
-        "tg_url": "tg://proxy?server=khalije-ta-abad-fars.ir.pugfhtrdyted.info.&port=88&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d",
-        "history": [
-            1,
-            1
-        ]
-    },
-    {
-        "server": "din5gli2.co.uk",
-        "port": 4455,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "status": "Online",
-        "latency": 203,
-        "tg_url": "tg://proxy?server=din5gli2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
-        "history": [
-            1
-        ]
-    },
-    {
-        "server": "ykima.davay.click",
-        "port": 443,
-        "secret": "ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b",
-        "status": "Online",
-        "latency": 205,
-        "tg_url": "tg://proxy?server=ykima.davay.click&port=443&secret=ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b",
-        "history": [
-            1,
-            1
-        ]
-    },
-    {
-        "server": "ir.cheap-ass-domain.info",
-        "port": 8443,
-        "secret": "EERighJJvXrFGRMCIMjdCQ",
-        "status": "Online",
-        "latency": 206,
-        "tg_url": "tg://proxy?server=ir.cheap-ass-domain.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
-        "history": [
-            1
-        ]
-    },
-    {
-        "server": "791kk.ir.meli-n13.info",
-        "port": 8443,
-        "secret": "104462821249bd7ac519130220c25d09",
-        "status": "Online",
-        "latency": 208,
-        "tg_url": "tg://proxy?server=791kk.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09",
-        "history": [
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "severjadid.co.uk",
-        "port": 4455,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "status": "Online",
-        "latency": 210,
-        "tg_url": "tg://proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "ir.ataman.info",
-        "port": 8443,
-        "secret": "EERighJJvXrFGRMCIMjdCQ",
-        "status": "Online",
-        "latency": 212,
-        "tg_url": "tg://proxy?server=ir.ataman.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
-        "history": [
-            0,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "mkima.davay.click",
-        "port": 443,
-        "secret": "ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b",
-        "status": "Online",
-        "latency": 213,
-        "tg_url": "tg://proxy?server=mkima.davay.click&port=443&secret=ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b",
-        "history": [
-            1,
-            1
-        ]
-    },
-    {
-        "server": "417.ir.ir.ir.meli-n12.info",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "status": "Online",
-        "latency": 216,
-        "tg_url": "tg://proxy?server=417.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09",
-        "history": [
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "world-mordak.maraton-co.info.",
-        "port": 443,
-        "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-        "status": "Online",
-        "latency": 218,
-        "tg_url": "tg://proxy?server=world-mordak.maraton-co.info.&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "ir.esdata.info",
-        "port": 8443,
-        "secret": "EERighJJvXrFGRMCIMjdCQ",
-        "status": "Online",
-        "latency": 219,
-        "tg_url": "tg://proxy?server=ir.esdata.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
-        "history": [
-            1
-        ]
-    },
-    {
-        "server": "ir.grumpyoldmen.info",
-        "port": 8443,
-        "secret": "EERighJJvXrFGRMCIMjdCQ",
-        "status": "Online",
-        "latency": 220,
-        "tg_url": "tg://proxy?server=ir.grumpyoldmen.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
-        "history": [
-            1
-        ]
-    },
-    {
-        "server": "sefid.goooalir.co.uk",
-        "port": 8443,
-        "secret": "dd104462821249bd7ac519130220c25d09</a><br/><br/><a",
-        "status": "Online",
-        "latency": 223,
-        "tg_url": "tg://proxy?server=sefid.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09</a><br/><br/><a",
-        "history": [
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "dingi3.co.uk",
-        "port": 4455,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "status": "Online",
-        "latency": 224,
-        "tg_url": "tg://proxy?server=dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
-        "history": [
-            1,
-            1
-        ]
-    },
-    {
-        "server": "alhosein.co.uk",
-        "port": 4455,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "status": "Online",
-        "latency": 226,
-        "tg_url": "tg://proxy?server=alhosein.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
-        "history": [
-            1,
-            1
-        ]
-    },
-    {
-        "server": "t.meow-network.com",
-        "port": 443,
-        "secret": "ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d</a><br/><br/><a",
-        "status": "Online",
-        "latency": 230,
-        "tg_url": "tg://proxy?server=t.meow-network.com&port=443&secret=ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d</a><br/><br/><a",
-        "history": [
-            1
-        ]
-    },
-    {
-        "server": "mizaneshgh2.co.uk",
-        "port": 4455,
-        "secret": "dd104462821249bd7ac519130220c25d09",
-        "status": "Online",
-        "latency": 235,
-        "tg_url": "tg://proxy?server=mizaneshgh2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "ir.cheap-ass-domain.info",
-        "port": 8443,
-        "secret": "104462821249bd7ac519130220c8dd09",
-        "status": "Online",
-        "latency": 237,
-        "tg_url": "tg://proxy?server=ir.cheap-ass-domain.info&port=8443&secret=104462821249bd7ac519130220c8dd09",
-        "history": [
-            1
-        ]
-    },
-    {
-        "server": "mtp1.hlebushek.com",
-        "port": 443,
-        "secret": "eea61deab187a415531ac418cd29ae58ee706574726f766963682e7275",
-        "status": "Online",
-        "latency": 237,
-        "tg_url": "tg://proxy?server=mtp1.hlebushek.com&port=443&secret=eea61deab187a415531ac418cd29ae58ee706574726f766963682e7275",
-        "history": [
-            1
-        ]
-    },
-    {
-        "server": "sop.foodpatuy.ir.",
-        "port": 443,
-        "secret": "3RBEYoISSb16xRkTAiDCXQk=</a>",
-        "status": "Online",
-        "latency": 263,
-        "tg_url": "tg://proxy?server=sop.foodpatuy.ir.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk=</a>",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "bala.hastim.co.uk",
-        "port": 443,
-        "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d</a><br/><br/><br/><br/><i",
-        "status": "Online",
-        "latency": 270,
-        "tg_url": "tg://proxy?server=bala.hastim.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d</a><br/><br/><br/><br/><i",
-        "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "gallery.talebi.co.uk",
-        "port": 2096,
-        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-        "status": "Online",
-        "latency": 276,
-        "tg_url": "tg://proxy?server=gallery.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 159,
+        "tg_url": "tg://proxy?server=new2.lambforkebeb.co.uk&port=2096&secret=79e344818749bd7ac519130220c25d09</a><br/><br/><a",
         "history": [
             1,
             1,
@@ -2461,44 +1082,169 @@
     {
         "server": "new.lambforkebeb.co.uk",
         "port": 2096,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><br/><br/><i",
+        "status": "Online",
+        "latency": 159,
+        "tg_url": "tg://proxy?server=new.lambforkebeb.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><br/><br/><i",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "god-mode-on.peachsoft.co.uk.",
+        "port": 443,
+        "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169</a><br/><br/><a",
+        "status": "Online",
+        "latency": 159,
+        "tg_url": "tg://proxy?server=god-mode-on.peachsoft.co.uk.&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169</a><br/><br/><a",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "nigan.goooalir.co.uk",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "status": "Online",
+        "latency": 160,
+        "tg_url": "tg://proxy?server=nigan.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "narooo.goooalir.co.uk",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "status": "Online",
+        "latency": 161,
+        "tg_url": "tg://proxy?server=narooo.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+        "history": [
+            1,
+            1
+        ]
+    },
+    {
+        "server": "porsorate.co.uk",
+        "port": 4455,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "status": "Online",
+        "latency": 161,
+        "tg_url": "tg://proxy?server=porsorate.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "world-mordak.maraton-co.info.",
+        "port": 443,
+        "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d</a><br/><br/><a",
+        "status": "Online",
+        "latency": 164,
+        "tg_url": "tg://proxy?server=world-mordak.maraton-co.info.&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d</a><br/><br/><a",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "mizaneshgh2.co.uk",
+        "port": 4455,
+        "secret": "dd104462821249bd7ac519130220c25d09</a><br/><br/><br/><br/><i",
+        "status": "Online",
+        "latency": 164,
+        "tg_url": "tg://proxy?server=mizaneshgh2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09</a><br/><br/><br/><br/><i",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "star.talebi.co.uk",
+        "port": 2096,
         "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
         "status": "Online",
-        "latency": 282,
-        "tg_url": "tg://proxy?server=new.lambforkebeb.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+        "latency": 165,
+        "tg_url": "tg://proxy?server=star.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
         "history": [
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1
-        ]
-    },
-    {
-        "server": "rich.whiteblox.org.",
-        "port": 80,
-        "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=",
-        "status": "Online",
-        "latency": 289,
-        "tg_url": "tg://proxy?server=rich.whiteblox.org.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s=",
-        "history": [
-            1,
-            0,
-            1,
-            1,
-            0,
-            0,
-            0,
-            1,
-            1,
-            1,
             1,
             1,
             1,
@@ -2516,50 +1262,32 @@
         ]
     },
     {
-        "server": "Hub.whiteblox.org.",
-        "port": 80,
-        "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=",
+        "server": "5.75.221.245",
+        "port": 7980,
+        "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b</a>",
         "status": "Online",
-        "latency": 289,
-        "tg_url": "tg://proxy?server=Hub.whiteblox.org.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s=",
+        "latency": 166,
+        "tg_url": "tg://proxy?server=5.75.221.245&port=7980&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b</a>",
         "history": [
-            1,
-            0,
-            1,
-            1,
-            0,
-            0,
-            0,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
-            1,
             1,
             1
         ]
     },
     {
-        "server": "cdn7.cdnwave.org",
-        "port": 443,
-        "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275",
+        "server": "me.foltmeingop.co.uk",
+        "port": 8880,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
         "status": "Online",
-        "latency": 291,
-        "tg_url": "tg://proxy?server=cdn7.cdnwave.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275",
+        "latency": 167,
+        "tg_url": "tg://proxy?server=me.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ",
         "history": [
             1,
             1,
-            0,
+            1,
+            1,
+            1,
+            1,
+            1,
             1,
             1,
             1,
@@ -2571,13 +1299,982 @@
         "port": 443,
         "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
         "status": "Online",
-        "latency": 306,
+        "latency": 169,
         "tg_url": "tg://proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
         "history": [
             1,
             1,
             1,
             1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "vasle.goooalir.co.uk",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09</a><br/><br/><a",
+        "status": "Online",
+        "latency": 169,
+        "tg_url": "tg://proxy?server=vasle.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09</a><br/><br/><a",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "me.foltmeingop.co.uk",
+        "port": 8880,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><a",
+        "status": "Online",
+        "latency": 171,
+        "tg_url": "tg://proxy?server=me.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><a",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "sosis.telbet.app.",
+        "port": 80,
+        "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=</a><br/><br/><a",
+        "status": "Online",
+        "latency": 172,
+        "tg_url": "tg://proxy?server=sosis.telbet.app.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s=</a><br/><br/><a",
+        "history": [
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "porsorate.co.uk",
+        "port": 4455,
+        "secret": "dd104462821249bd7ac519130220c25d09</a><br/><br/><a",
+        "status": "Online",
+        "latency": 173,
+        "tg_url": "tg://proxy?server=porsorate.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09</a><br/><br/><a",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "mtp3.hlebushek.com",
+        "port": 443,
+        "secret": "ee49b03637799a40446509a268d99ff91b706574726f766963682e7275",
+        "status": "Online",
+        "latency": 174,
+        "tg_url": "tg://proxy?server=mtp3.hlebushek.com&port=443&secret=ee49b03637799a40446509a268d99ff91b706574726f766963682e7275",
+        "history": [
+            1,
+            1
+        ]
+    },
+    {
+        "server": "pesar.nanaz.co.uk",
+        "port": 8443,
+        "secret": "EERighJJvXrFGRMCIMJdCQ",
+        "status": "Online",
+        "latency": 174,
+        "tg_url": "tg://proxy?server=pesar.nanaz.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+        "history": [
+            1,
+            1
+        ]
+    },
+    {
+        "server": "vasle.goooalir.co.uk",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "status": "Online",
+        "latency": 174,
+        "tg_url": "tg://proxy?server=vasle.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "dynu.ir.telbet.lol.",
+        "port": 80,
+        "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=</a><br/><br/><a",
+        "status": "Online",
+        "latency": 175,
+        "tg_url": "tg://proxy?server=dynu.ir.telbet.lol.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s=</a><br/><br/><a",
+        "history": [
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "rain.lavazemi2.co.uk",
+        "port": 2053,
+        "secret": "79e344818749bd7ac519130220c25d09",
+        "status": "Online",
+        "latency": 178,
+        "tg_url": "tg://proxy?server=rain.lavazemi2.co.uk&port=2053&secret=79e344818749bd7ac519130220c25d09",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "CDN.benzcls.co.uk",
+        "port": 80,
+        "secret": "ddab314e8cdeccc7831452ad6dde634b25",
+        "status": "Online",
+        "latency": 179,
+        "tg_url": "tg://proxy?server=CDN.benzcls.co.uk&port=80&secret=ddab314e8cdeccc7831452ad6dde634b25",
+        "history": [
+            1
+        ]
+    },
+    {
+        "server": "one.horizon555.co.uk",
+        "port": 8443,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><br/><a",
+        "status": "Online",
+        "latency": 180,
+        "tg_url": "tg://proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ</a><br/><br/><br/><a",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "shenzar-sahel.dashtodaman.info.",
+        "port": 7799,
+        "secret": "dd10400103324995b07c030386e886e7f1</a><br/><br/><a",
+        "status": "Online",
+        "latency": 181,
+        "tg_url": "tg://proxy?server=shenzar-sahel.dashtodaman.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1</a><br/><br/><a",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "417.ir.ir.ir.meli-n12.info",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "status": "Online",
+        "latency": 182,
+        "tg_url": "tg://proxy?server=417.ir.ir.ir.meli-n12.info&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "dynu.ir.telbet.lol.",
+        "port": 80,
+        "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=",
+        "status": "Online",
+        "latency": 182,
+        "tg_url": "tg://proxy?server=dynu.ir.telbet.lol.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s=",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "vahshianeh.ghodratitarin.info.",
+        "port": 7799,
+        "secret": "dd10400103324995b07c030386e886e7f1</a><br/><br/><br/><br/><i",
+        "status": "Online",
+        "latency": 182,
+        "tg_url": "tg://proxy?server=vahshianeh.ghodratitarin.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1</a><br/><br/><br/><br/><i",
+        "history": [
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "server": "dingi3.co.uk",
+        "port": 4455,
+        "secret": "dd104462821249bd7ac519130220c25d09</a>",
+        "status": "Online",
+        "latency": 182,
+        "tg_url": "tg://proxy?server=dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09</a>",
+        "history": [
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "world-mordak.maraton-co.info.",
+        "port": 443,
+        "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+        "status": "Online",
+        "latency": 184,
+        "tg_url": "tg://proxy?server=world-mordak.maraton-co.info.&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "nontanori.noshabekoka.info.",
+        "port": 7799,
+        "secret": "dd10400103324995b07c030386e886e7f1</a><br/><br/><a",
+        "status": "Online",
+        "latency": 185,
+        "tg_url": "tg://proxy?server=nontanori.noshabekoka.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1</a><br/><br/><a",
+        "history": [
+            0,
+            1
+        ]
+    },
+    {
+        "server": "cdn7.cdnwave.org",
+        "port": 443,
+        "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275</a><br/><br/><a",
+        "status": "Online",
+        "latency": 187,
+        "tg_url": "tg://proxy?server=cdn7.cdnwave.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275</a><br/><br/><a",
+        "history": [
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "server": "masire-gozare.omr.marchelo.info",
+        "port": 35450,
+        "secret": "7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t</a><br/><br/><a",
+        "status": "Online",
+        "latency": 188,
+        "tg_url": "tg://proxy?server=masire-gozare.omr.marchelo.info&port=35450&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t</a><br/><br/><a",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "791kk.ir.meli-n13.info",
+        "port": 8443,
+        "secret": "104462821249bd7ac519130220c25d09",
+        "status": "Online",
+        "latency": 189,
+        "tg_url": "tg://proxy?server=791kk.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "sefid.goooalir.co.uk",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09</a><br/><br/><a",
+        "status": "Online",
+        "latency": 190,
+        "tg_url": "tg://proxy?server=sefid.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09</a><br/><br/><a",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "ykima.davay.click",
+        "port": 443,
+        "secret": "ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b",
+        "status": "Online",
+        "latency": 191,
+        "tg_url": "tg://proxy?server=ykima.davay.click&port=443&secret=ee06dfdbdf271bab18c6b606484c237384796b696d612e64617661792e636c69636b",
+        "history": [
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "rich.whiteblox.org.",
+        "port": 80,
+        "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=</a><br/><br/><a",
+        "status": "Online",
+        "latency": 191,
+        "tg_url": "tg://proxy?server=rich.whiteblox.org.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s=</a><br/><br/><a",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "ssh.meow0.co.uk",
+        "port": 22,
+        "secret": "dd79e344818749bd7ac519130220c25d09",
+        "status": "Online",
+        "latency": 192,
+        "tg_url": "tg://proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "max.kimt.click",
+        "port": 443,
+        "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b</a><br/><br/><a",
+        "status": "Online",
+        "latency": 193,
+        "tg_url": "tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b</a><br/><br/><a",
+        "history": [
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "Fast.finecooking.info",
+        "port": 443,
+        "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+        "status": "Online",
+        "latency": 194,
+        "tg_url": "tg://proxy?server=Fast.finecooking.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "severjadid.co.uk",
+        "port": 4455,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "status": "Online",
+        "latency": 196,
+        "tg_url": "tg://proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "vahshianeh.ghodratitarin.info.",
+        "port": 7799,
+        "secret": "dd10400103324995b07c030386e886e7f1",
+        "status": "Online",
+        "latency": 196,
+        "tg_url": "tg://proxy?server=vahshianeh.ghodratitarin.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1",
+        "history": [
+            1,
+            0,
+            1
+        ]
+    },
+    {
+        "server": "cdn7.cdnwave.org",
+        "port": 443,
+        "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275</a>",
+        "status": "Online",
+        "latency": 197,
+        "tg_url": "tg://proxy?server=cdn7.cdnwave.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275</a>",
+        "history": [
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "setion-two.co.uk.",
+        "port": 443,
+        "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169",
+        "status": "Online",
+        "latency": 199,
+        "tg_url": "tg://proxy?server=setion-two.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b7765622e62616c652e6169",
+        "history": [
+            1,
+            1
+        ]
+    },
+    {
+        "server": "mtp2.hlebushek.com",
+        "port": 443,
+        "secret": "ee8263f1fdfbfa0629c67c40d208806873706574726f766963682e7275",
+        "status": "Online",
+        "latency": 200,
+        "tg_url": "tg://proxy?server=mtp2.hlebushek.com&port=443&secret=ee8263f1fdfbfa0629c67c40d208806873706574726f766963682e7275",
+        "history": [
+            1,
+            1
+        ]
+    },
+    {
+        "server": "x.shmelproxy.top",
+        "port": 443,
+        "secret": "eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+        "status": "Online",
+        "latency": 201,
+        "tg_url": "tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275",
+        "history": [
+            1
+        ]
+    },
+    {
+        "server": "mkima.davay.click",
+        "port": 443,
+        "secret": "ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b",
+        "status": "Online",
+        "latency": 204,
+        "tg_url": "tg://proxy?server=mkima.davay.click&port=443&secret=ee39300be14c4d54704c92416d555fa7026d6b696d612e64617661792e636c69636b",
+        "history": [
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "ccc.horizon555.co.uk",
+        "port": 8443,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "status": "Online",
+        "latency": 204,
+        "tg_url": "tg://proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+        "history": [
+            1
+        ]
+    },
+    {
+        "server": "ir.esdata.info",
+        "port": 8443,
+        "secret": "EERighJJvXrFGRMCIMjdCQ</a><br/><br/><br/><br/><br/><br/><i",
+        "status": "Online",
+        "latency": 205,
+        "tg_url": "tg://proxy?server=ir.esdata.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ</a><br/><br/><br/><br/><br/><br/><i",
+        "history": [
+            1,
+            1
+        ]
+    },
+    {
+        "server": "max.kimt.click",
+        "port": 443,
+        "secret": "ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
+        "status": "Online",
+        "latency": 206,
+        "tg_url": "tg://proxy?server=max.kimt.click&port=443&secret=ee1b153cf06dbd43c6085c359a6702eb936d61782e6b696d742e636c69636b",
+        "history": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "sosis.telbet.app.",
+        "port": 80,
+        "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=</a><br/><br/><br/><br/><i",
+        "status": "Online",
+        "latency": 206,
+        "tg_url": "tg://proxy?server=sosis.telbet.app.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s=</a><br/><br/><br/><br/><i",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "ir.closcloud.co.uk",
+        "port": 8443,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "status": "Online",
+        "latency": 207,
+        "tg_url": "tg://proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+        "history": [
+            0,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "rich.whiteblox.org.",
+        "port": 80,
+        "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=",
+        "status": "Online",
+        "latency": 207,
+        "tg_url": "tg://proxy?server=rich.whiteblox.org.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s=",
+        "history": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "ir.grumpyoldmen.info",
+        "port": 8443,
+        "secret": "EERighJJvXrFGRMCIMjdCQ",
+        "status": "Online",
+        "latency": 209,
+        "tg_url": "tg://proxy?server=ir.grumpyoldmen.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+        "history": [
+            1,
+            1
+        ]
+    },
+    {
+        "server": "alhosein.co.uk",
+        "port": 4455,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "status": "Online",
+        "latency": 212,
+        "tg_url": "tg://proxy?server=alhosein.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
+        "history": [
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "god-mode-on.peachsoft.co.uk.",
+        "port": 443,
+        "secret": "eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169",
+        "status": "Online",
+        "latency": 212,
+        "tg_url": "tg://proxy?server=god-mode-on.peachsoft.co.uk.&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "t.meow-network.com",
+        "port": 443,
+        "secret": "ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d</a><br/><br/><a",
+        "status": "Online",
+        "latency": 213,
+        "tg_url": "tg://proxy?server=t.meow-network.com&port=443&secret=ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d</a><br/><br/><a",
+        "history": [
+            1,
+            1
+        ]
+    },
+    {
+        "server": "shenzar-sahel.dashtodaman.info.",
+        "port": 7799,
+        "secret": "dd10400103324995b07c030386e886e7f1",
+        "status": "Online",
+        "latency": 218,
+        "tg_url": "tg://proxy?server=shenzar-sahel.dashtodaman.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "ir.panhandleflyers.info",
+        "port": 8443,
+        "secret": "104462821249bd7ac519130220c8dd09",
+        "status": "Online",
+        "latency": 221,
+        "tg_url": "tg://proxy?server=ir.panhandleflyers.info&port=8443&secret=104462821249bd7ac519130220c8dd09",
+        "history": [
+            1
+        ]
+    },
+    {
+        "server": "ir.speed.finecooking.info",
+        "port": 443,
+        "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+        "status": "Online",
+        "latency": 221,
+        "tg_url": "tg://proxy?server=ir.speed.finecooking.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "team.fast--pro.co.uk.",
+        "port": 443,
+        "secret": "3RBEYoISSb16xRkTAiDCXQk=",
+        "status": "Online",
+        "latency": 222,
+        "tg_url": "tg://proxy?server=team.fast--pro.co.uk.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk=",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "t.meow-network.com",
+        "port": 443,
+        "secret": "ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d",
+        "status": "Online",
+        "latency": 224,
+        "tg_url": "tg://proxy?server=t.meow-network.com&port=443&secret=ee5622e11fff3e49bcc85280197a6106b5742e6d656f772d6e6574776f726b2e636f6d",
+        "history": [
+            1,
+            1
+        ]
+    },
+    {
+        "server": "masire-gozare.omr.marchelo.info",
+        "port": 35450,
+        "secret": "7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t",
+        "status": "Online",
+        "latency": 225,
+        "tg_url": "tg://proxy?server=masire-gozare.omr.marchelo.info&port=35450&secret=7hYDAQIAAQAB_AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29t",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "sosis.telbet.app.",
+        "port": 80,
+        "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=",
+        "status": "Online",
+        "latency": 225,
+        "tg_url": "tg://proxy?server=sosis.telbet.app.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s=",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "ir.makkers.co.uk",
+        "port": 8443,
+        "secret": "EERighJJvXrFGRMCIMjdCQ",
+        "status": "Online",
+        "latency": 231,
+        "tg_url": "tg://proxy?server=ir.makkers.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+        "history": [
+            1,
+            1
+        ]
+    },
+    {
+        "server": "mizaneshgh2.co.uk",
+        "port": 4455,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "status": "Online",
+        "latency": 233,
+        "tg_url": "tg://proxy?server=mizaneshgh2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
+        "history": [
             1,
             1,
             1,
@@ -2594,7 +2291,7 @@
         "port": 8443,
         "secret": "ee6321048187495dfac59a030220c25d8e626973636f7474692e79656b74616e65742e636f6d</a><br/><br/><a",
         "status": "Online",
-        "latency": 309,
+        "latency": 239,
         "tg_url": "tg://proxy?server=75pib.life.198-44.ir.&port=8443&secret=ee6321048187495dfac59a030220c25d8e626973636f7474692e79656b74616e65742e636f6d</a><br/><br/><a",
         "history": [
             1,
@@ -2624,25 +2321,140 @@
         ]
     },
     {
-        "server": "s1.assetflux.org",
-        "port": 443,
-        "secret": "ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275",
+        "server": "mamadali.co.uk",
+        "port": 4455,
+        "secret": "dd104462821249bd7ac519130220c25d09",
         "status": "Online",
-        "latency": 310,
-        "tg_url": "tg://proxy?server=s1.assetflux.org&port=443&secret=ee73e7d7fe41b49d9091f78c8c92c22de4766b2e7275",
+        "latency": 239,
+        "tg_url": "tg://proxy?server=mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
         "history": [
-            0,
+            1,
             1
         ]
     },
     {
-        "server": "41.hide.newflamingodomain.co.uk",
+        "server": "ir.esdata.info",
         "port": 8443,
+        "secret": "EERighJJvXrFGRMCIMjdCQ",
+        "status": "Online",
+        "latency": 240,
+        "tg_url": "tg://proxy?server=ir.esdata.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+        "history": [
+            1,
+            1
+        ]
+    },
+    {
+        "server": "ir.ataman.info",
+        "port": 8443,
+        "secret": "EERighJJvXrFGRMCIMjdCQ",
+        "status": "Online",
+        "latency": 242,
+        "tg_url": "tg://proxy?server=ir.ataman.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+        "history": [
+            0,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "din5gli2.co.uk",
+        "port": 4455,
         "secret": "dd104462821249bd7ac519130220c25d09",
         "status": "Online",
-        "latency": 334,
-        "tg_url": "tg://proxy?server=41.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+        "latency": 244,
+        "tg_url": "tg://proxy?server=din5gli2.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
         "history": [
+            1,
+            1
+        ]
+    },
+    {
+        "server": "sop.foodpatuy.ir.",
+        "port": 443,
+        "secret": "3RBEYoISSb16xRkTAiDCXQk=</a>",
+        "status": "Online",
+        "latency": 252,
+        "tg_url": "tg://proxy?server=sop.foodpatuy.ir.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk=</a>",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "dingi3.co.uk",
+        "port": 4455,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "status": "Online",
+        "latency": 257,
+        "tg_url": "tg://proxy?server=dingi3.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
+        "history": [
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "mtp1.hlebushek.com",
+        "port": 443,
+        "secret": "eea61deab187a415531ac418cd29ae58ee706574726f766963682e7275",
+        "status": "Online",
+        "latency": 268,
+        "tg_url": "tg://proxy?server=mtp1.hlebushek.com&port=443&secret=eea61deab187a415531ac418cd29ae58ee706574726f766963682e7275",
+        "history": [
+            1,
+            1
+        ]
+    },
+    {
+        "server": "ir.cheap-ass-domain.info",
+        "port": 8443,
+        "secret": "EERighJJvXrFGRMCIMjdCQ",
+        "status": "Online",
+        "latency": 273,
+        "tg_url": "tg://proxy?server=ir.cheap-ass-domain.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+        "history": [
+            1,
+            1
+        ]
+    },
+    {
+        "server": "gallery.talebi.co.uk",
+        "port": 2096,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "status": "Online",
+        "latency": 284,
+        "tg_url": "tg://proxy?server=gallery.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
             1,
             1,
             1
@@ -2653,7 +2465,7 @@
         "port": 443,
         "secret": "3RBEYoISSb16xRkTAiDCXQk=",
         "status": "Online",
-        "latency": 337,
+        "latency": 288,
         "tg_url": "tg://proxy?server=sop.foodpatuy.ir.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk=",
         "history": [
             1,
@@ -2665,42 +2477,367 @@
             1,
             1,
             1,
-            1
-        ]
-    },
-    {
-        "server": "sop.foodpatuy.ir.",
-        "port": 443,
-        "secret": "3RBEYoISSb16xRkTAiDCXQk=</a><br/><br/><a",
-        "status": "Online",
-        "latency": 337,
-        "tg_url": "tg://proxy?server=sop.foodpatuy.ir.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk=</a><br/><br/><a",
-        "history": [
-            1,
-            1,
             1,
             1
         ]
     },
     {
-        "server": "dokhtar.nanaz.co.uk",
+        "server": "Rose.goooalir.co.uk",
         "port": 8443,
-        "secret": "EERighJJvXrFGRMCIMJdCQ",
-        "status": "Online",
-        "latency": 369,
-        "tg_url": "tg://proxy?server=dokhtar.nanaz.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
-        "history": [
-            1
-        ]
-    },
-    {
-        "server": "mamadali.co.uk",
-        "port": 4455,
         "secret": "dd104462821249bd7ac519130220c25d09",
         "status": "Online",
-        "latency": 395,
-        "tg_url": "tg://proxy?server=mamadali.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
+        "latency": 289,
+        "tg_url": "tg://proxy?server=Rose.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
         "history": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "bala.hastim.co.uk",
+        "port": 443,
+        "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+        "status": "Online",
+        "latency": 292,
+        "tg_url": "tg://proxy?server=bala.hastim.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "Hub.whiteblox.org.",
+        "port": 80,
+        "secret": "3RbZ3hNtxAbJ6L5BQipx2_s=",
+        "status": "Online",
+        "latency": 296,
+        "tg_url": "tg://proxy?server=Hub.whiteblox.org.&port=80&secret=3RbZ3hNtxAbJ6L5BQipx2_s=",
+        "history": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "admin.valmira.co.uk",
+        "port": 25565,
+        "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+        "status": "Online",
+        "latency": 300,
+        "tg_url": "tg://proxy?server=admin.valmira.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "nontanori.noshabekoka.info.",
+        "port": 7799,
+        "secret": "dd10400103324995b07c030386e886e7f1",
+        "status": "Online",
+        "latency": 301,
+        "tg_url": "tg://proxy?server=nontanori.noshabekoka.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1",
+        "history": [
+            0,
+            1
+        ]
+    },
+    {
+        "server": "look.foltmeingop.co.uk",
+        "port": 8880,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ</a></div>",
+        "status": "Online",
+        "latency": 305,
+        "tg_url": "tg://proxy?server=look.foltmeingop.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ</a></div>",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "bo0ji.co.uk.",
+        "port": 443,
+        "secret": "ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+        "status": "Online",
+        "latency": 312,
+        "tg_url": "tg://proxy?server=bo0ji.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "cdn7.cdnwave.org",
+        "port": 443,
+        "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275",
+        "status": "Online",
+        "latency": 314,
+        "tg_url": "tg://proxy?server=cdn7.cdnwave.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275",
+        "history": [
+            1,
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "41.hide.newflamingodomain.co.uk",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09</a><br/><br/><a",
+        "status": "Online",
+        "latency": 316,
+        "tg_url": "tg://proxy?server=41.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09</a><br/><br/><a",
+        "history": [
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "one.horizon555.co.uk",
+        "port": 8443,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "status": "Online",
+        "latency": 318,
+        "tg_url": "tg://proxy?server=one.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "uptime.speed-benz.co.uk",
+        "port": 8443,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "status": "Online",
+        "latency": 320,
+        "tg_url": "tg://proxy?server=uptime.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "severjadid.co.uk",
+        "port": 4455,
+        "secret": "dd104462821249bd7ac519130220c25d09</a><br/><br/><a",
+        "status": "Online",
+        "latency": 324,
+        "tg_url": "tg://proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09</a><br/><br/><a",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "Hel-hi.co.uk.",
+        "port": 443,
+        "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d</a><br/><br/><br/><br/><br/><i",
+        "status": "Online",
+        "latency": 325,
+        "tg_url": "tg://proxy?server=Hel-hi.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d</a><br/><br/><br/><br/><br/><i",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "admin.valmira.co.uk",
+        "port": 25565,
+        "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d</a><br/><br/><a",
+        "status": "Online",
+        "latency": 336,
+        "tg_url": "tg://proxy?server=admin.valmira.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d</a><br/><br/><a",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "sefid.goooalir.co.uk",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "status": "Online",
+        "latency": 352,
+        "tg_url": "tg://proxy?server=sefid.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+        "history": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "stream.lovely.lat",
+        "port": 443,
+        "secret": "eeaadd88aa9facd454936d0c42dc128e776d2e6265626f6f2e7275",
+        "status": "Online",
+        "latency": 372,
+        "tg_url": "tg://proxy?server=stream.lovely.lat&port=443&secret=eeaadd88aa9facd454936d0c42dc128e776d2e6265626f6f2e7275",
+        "history": [
+            1,
+            1
+        ]
+    },
+    {
+        "server": "41.hide.newflamingodomain.co.uk",
+        "port": 8443,
+        "secret": "dd104462821249bd7ac519130220c25d09",
+        "status": "Online",
+        "latency": 391,
+        "tg_url": "tg://proxy?server=41.hide.newflamingodomain.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09",
+        "history": [
+            1,
+            1,
+            1,
             1
         ]
     },
@@ -2709,7 +2846,7 @@
         "port": 8443,
         "secret": "ee6321048187495dfac59a030220c25d8e626973636f7474692e79656b74616e65742e636f6d",
         "status": "Online",
-        "latency": 513,
+        "latency": 461,
         "tg_url": "tg://proxy?server=75pib.life.198-44.ir.&port=8443&secret=ee6321048187495dfac59a030220c25d8e626973636f7474692e79656b74616e65742e636f6d",
         "history": [
             1,
@@ -2731,6 +2868,21 @@
             1,
             1,
             1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "server": "sop.foodpatuy.ir.",
+        "port": 443,
+        "secret": "3RBEYoISSb16xRkTAiDCXQk=</a><br/><br/><a",
+        "status": "Online",
+        "latency": 535,
+        "tg_url": "tg://proxy?server=sop.foodpatuy.ir.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk=</a><br/><br/><a",
+        "history": [
             1,
             1,
             1,
@@ -2893,7 +3045,7 @@
             1,
             1,
             1,
-            1,
+            0,
             0,
             0,
             0,
@@ -2927,7 +3079,6 @@
             1,
             1,
             1,
-            1,
             0,
             0,
             0,
@@ -2939,54 +3090,7 @@
             0,
             0,
             0,
-            0
-        ]
-    },
-    {
-        "server": "media9.happtg.org",
-        "port": 443,
-        "secret": "ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275",
-        "status": "Offline",
-        "latency": null,
-        "tg_url": "tg://proxy?server=media9.happtg.org&port=443&secret=ee2e7c3d85e469cb8f825f4678a716a363706574726f766963682e7275",
-        "history": [
             0,
-            0
-        ]
-    },
-    {
-        "server": "cdn10.cdnwave.org",
-        "port": 443,
-        "secret": "eeecd508d816f611bb329487809f8dac88706574726f766963682e7275",
-        "status": "Offline",
-        "latency": null,
-        "tg_url": "tg://proxy?server=cdn10.cdnwave.org&port=443&secret=eeecd508d816f611bb329487809f8dac88706574726f766963682e7275",
-        "history": [
-            0,
-            0
-        ]
-    },
-    {
-        "server": "cdn12.cdnwave.org",
-        "port": 443,
-        "secret": "ee97247322005404a2c7a84d082aace21b686f66662e7275",
-        "status": "Offline",
-        "latency": null,
-        "tg_url": "tg://proxy?server=cdn12.cdnwave.org&port=443&secret=ee97247322005404a2c7a84d082aace21b686f66662e7275",
-        "history": [
-            1,
-            0
-        ]
-    },
-    {
-        "server": "s13.assetflux.org",
-        "port": 443,
-        "secret": "ee3afc68787d0be6268346b66a3563001b686f66662e7275",
-        "status": "Offline",
-        "latency": null,
-        "tg_url": "tg://proxy?server=s13.assetflux.org&port=443&secret=ee3afc68787d0be6268346b66a3563001b686f66662e7275",
-        "history": [
-            1,
             0
         ]
     },
@@ -2998,6 +3102,7 @@
         "latency": null,
         "tg_url": "tg://proxy?server=relay.rknsosi.shop&port=443&secret=ee93e8816b5fd5c054bc95442701329e0072656c61792e726b6e736f73692e73686f70",
         "history": [
+            0,
             0,
             0,
             0,
@@ -3015,6 +3120,7 @@
             0,
             0,
             0,
+            0,
             0
         ]
     },
@@ -3027,11 +3133,11 @@
         "tg_url": "tg://proxy?server=nyakawai.shop&port=443&secret=eefddb26d5047ce1787ece232a57832391617669746f2e7275",
         "history": [
             1,
-            1,
             0,
             1,
             0,
             1,
+            0,
             0,
             0,
             0,
@@ -3063,8 +3169,8 @@
             0,
             0,
             0,
-            0,
             1,
+            0,
             0,
             0,
             0,
@@ -3094,6 +3200,7 @@
         "latency": null,
         "tg_url": "tg://proxy?server=node.easyproxy.cfd&port=443&secret=ee6be95a795ee766da019cd30044b837c16e6f64652e6561737970726f78792e636664",
         "history": [
+            0,
             0
         ]
     },
@@ -3105,6 +3212,7 @@
         "latency": null,
         "tg_url": "tg://proxy?server=megaconnect.click&port=443&secret=ee283d3bf19b80aa8a9ca06a2244c01c8a617669746f2e7275",
         "history": [
+            0,
             0
         ]
     },
@@ -3115,6 +3223,29 @@
         "status": "Offline",
         "latency": null,
         "tg_url": "tg://proxy?server=ya709.startnetwork.shop&port=443&secret=eefc5d33f52ad4d9f04358306ba003d8fc7374726d2e79616e6465782e6e6574",
+        "history": [
+            0,
+            0
+        ]
+    },
+    {
+        "server": "ad1.arixo.shop",
+        "port": 443,
+        "secret": "eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70",
+        "status": "Offline",
+        "latency": null,
+        "tg_url": "tg://proxy?server=ad1.arixo.shop&port=443&secret=eee09f46368021f91b92ad3dea14c7ac896164312e617269786f2e73686f70",
+        "history": [
+            0
+        ]
+    },
+    {
+        "server": "skein.chunkycorp.shop",
+        "port": 8443,
+        "secret": "ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
+        "status": "Offline",
+        "latency": null,
+        "tg_url": "tg://proxy?server=skein.chunkycorp.shop&port=8443&secret=ee6a0333c1db3f8eaba5c76731a44203b6617669746f2e7275",
         "history": [
             0
         ]
@@ -3140,6 +3271,7 @@
             1,
             1,
             0,
+            0,
             0
         ]
     },
@@ -3163,6 +3295,7 @@
             1,
             1,
             0,
+            0,
             0
         ]
     },
@@ -3185,6 +3318,7 @@
             1,
             1,
             1,
+            0,
             0,
             0
         ]
@@ -3210,6 +3344,7 @@
             1,
             0,
             0,
+            0,
             0
         ]
     },
@@ -3231,6 +3366,7 @@
             1,
             1,
             1,
+            0,
             0,
             0,
             0
@@ -3256,6 +3392,7 @@
             1,
             1,
             1,
+            0,
             0
         ]
     },
@@ -3279,6 +3416,7 @@
             1,
             1,
             1,
+            0,
             0
         ]
     },
@@ -3293,6 +3431,7 @@
             1,
             1,
             1,
+            0,
             0,
             0,
             0,
@@ -3321,6 +3460,7 @@
             0,
             0,
             0,
+            0,
             0
         ]
     },
@@ -3335,8 +3475,8 @@
             0,
             0,
             0,
-            0,
             1,
+            0,
             0,
             0,
             0,
@@ -3376,6 +3516,7 @@
             0,
             0,
             0,
+            0,
             0
         ]
     },
@@ -3396,6 +3537,7 @@
             1,
             1,
             1,
+            0,
             0
         ]
     },
@@ -3409,6 +3551,7 @@
         "history": [
             1,
             1,
+            0,
             0,
             0,
             0,
@@ -3436,6 +3579,7 @@
             0,
             0,
             0,
+            0,
             0
         ]
     },
@@ -3456,6 +3600,7 @@
             0,
             0,
             0,
+            0,
             0
         ]
     },
@@ -3469,6 +3614,7 @@
         "history": [
             1,
             1,
+            0,
             0,
             0,
             0,
@@ -3501,7 +3647,7 @@
             1,
             1,
             1,
-            1,
+            0,
             0,
             0,
             0,
@@ -3521,6 +3667,7 @@
         "latency": null,
         "tg_url": "tg://proxy?server=close.your.mouth.and.eyse.kiroftopmine.site.&port=22&secret=AAAAAAAAAAAAAAAAAAAAAA==</a><br/><br/><a",
         "history": [
+            0,
             0,
             0,
             0,
@@ -3579,22 +3726,7 @@
             0,
             0,
             0,
-            0
-        ]
-    },
-    {
-        "server": "cdn7.cdnwave.org",
-        "port": 443,
-        "secret": "ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275</a><br/><br/><a",
-        "status": "Offline",
-        "latency": null,
-        "tg_url": "tg://proxy?server=cdn7.cdnwave.org&port=443&secret=ee6ec9f7e082baf2397b450727ce78447e6f7a6f6e2e7275</a><br/><br/><a",
-        "history": [
             0,
-            0,
-            1,
-            1,
-            1,
             0
         ]
     },
@@ -3606,6 +3738,7 @@
         "latency": null,
         "tg_url": "tg://proxy?server=topproxt.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275",
         "history": [
+            0,
             0,
             0,
             0,
@@ -3625,6 +3758,7 @@
             1,
             0,
             0,
+            0,
             0
         ]
     },
@@ -3636,6 +3770,7 @@
         "latency": null,
         "tg_url": "tg://proxy?server=adproxy.mtproto.baby&port=443&secret=ddb57ee5caf6ee163bd0a0d08f491a84db",
         "history": [
+            0,
             0,
             0,
             0,
@@ -3654,6 +3789,7 @@
             0,
             0,
             0,
+            0,
             0
         ]
     },
@@ -3665,6 +3801,7 @@
         "latency": null,
         "tg_url": "tg://proxy?server=api2.kvakzon.top&port=2443&secret=eeb2a0e3b5fba31d961cba1437805cf950617069322e6b76616b7a6f6e2e746f70",
         "history": [
+            0,
             0,
             0,
             0,
@@ -3682,6 +3819,7 @@
             0,
             0,
             0,
+            0,
             0
         ]
     },
@@ -3694,6 +3832,7 @@
         "tg_url": "tg://proxy?server=sep1.startnetwork.shop&port=443&secret=ee2cd47959b9ece2cc59b76a4a0c010ae37374726d2e79616e6465782e6e6574",
         "history": [
             1,
+            0,
             0,
             0,
             0
@@ -3709,6 +3848,7 @@
         "history": [
             0,
             0,
+            0,
             0
         ]
     },
@@ -3720,6 +3860,7 @@
         "latency": null,
         "tg_url": "tg://proxy?server=Khamenei.ir.alibaba1407.org&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
         "history": [
+            0,
             0,
             0,
             0
@@ -3735,6 +3876,7 @@
         "history": [
             0,
             0,
+            0,
             0
         ]
     },
@@ -3747,30 +3889,7 @@
         "tg_url": "tg://proxy?server=gate.24starsmarket.ru&port=443&secret=ee87edf50215ee4bf7aa2d409b9cd71fcc676174652e323473746172736d61726b65742e7275</a><br/><br/><a",
         "history": [
             0,
-            0
-        ]
-    },
-    {
-        "server": "vahshianeh.ghodratitarin.info.",
-        "port": 7799,
-        "secret": "dd10400103324995b07c030386e886e7f1",
-        "status": "Offline",
-        "latency": null,
-        "tg_url": "tg://proxy?server=vahshianeh.ghodratitarin.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1",
-        "history": [
-            1,
-            0
-        ]
-    },
-    {
-        "server": "vahshianeh.ghodratitarin.info.",
-        "port": 7799,
-        "secret": "dd10400103324995b07c030386e886e7f1</a><br/><br/><br/><br/><i",
-        "status": "Offline",
-        "latency": null,
-        "tg_url": "tg://proxy?server=vahshianeh.ghodratitarin.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1</a><br/><br/><br/><br/><i",
-        "history": [
-            1,
+            0,
             0
         ]
     },
@@ -3783,28 +3902,7 @@
         "tg_url": "tg://proxy?server=close.your.mouth.and.eyse.kiroftopmine.site.&port=22&secret=AAAAAAAAAAAAAAAAAAAAAA==</a><br/><br/><br/><br/><br/><i",
         "history": [
             0,
-            0
-        ]
-    },
-    {
-        "server": "nontanori.noshabekoka.info.",
-        "port": 7799,
-        "secret": "dd10400103324995b07c030386e886e7f1",
-        "status": "Offline",
-        "latency": null,
-        "tg_url": "tg://proxy?server=nontanori.noshabekoka.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1",
-        "history": [
-            0
-        ]
-    },
-    {
-        "server": "nontanori.noshabekoka.info.",
-        "port": 7799,
-        "secret": "dd10400103324995b07c030386e886e7f1</a><br/><br/><a",
-        "status": "Offline",
-        "latency": null,
-        "tg_url": "tg://proxy?server=nontanori.noshabekoka.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1</a><br/><br/><a",
-        "history": [
+            0,
             0
         ]
     },
@@ -3817,6 +3915,7 @@
         "tg_url": "tg://proxy?server=nab-hdn.royaclinic.co.uk.&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk=",
         "history": [
             1,
+            0,
             0
         ]
     },
@@ -3827,6 +3926,29 @@
         "status": "Offline",
         "latency": null,
         "tg_url": "tg://proxy?server=nab-hdn.royaclinic.co.uk.&port=8443&secret=3RBEYoISSb16xRkTAiDCXQk=</a><br/><br/><a",
+        "history": [
+            0,
+            0
+        ]
+    },
+    {
+        "server": "sahel.saheledarya.co.uk.",
+        "port": 8443,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "status": "Offline",
+        "latency": null,
+        "tg_url": "tg://proxy?server=sahel.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+        "history": [
+            0
+        ]
+    },
+    {
+        "server": "im.dumaniltd.co.uk",
+        "port": 8443,
+        "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+        "status": "Offline",
+        "latency": null,
+        "tg_url": "tg://proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
         "history": [
             0
         ]
